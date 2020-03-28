@@ -1,4 +1,4 @@
-# 技术栈
+<!-- # 技术栈
 
 vue2.0 + vue-router + vuex + axios + mock.js(模拟数据) + ES6 + less
 
@@ -40,4 +40,4 @@ npm install
 npm run dev
 
 # build for production with minification
-npm run build
+npm run build -->
